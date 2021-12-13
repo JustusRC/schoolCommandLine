@@ -1,7 +1,3 @@
-package projectII;
-
-
-
 public class Teacher {
 	
 	String Name;
